@@ -1,0 +1,58 @@
+
+              ABDUL(Checking_Account)
+Username:ABDUL
+Password:baseer@123
+First Name:ABDUL
+Last Name:BASEER
+Address:D.H.A
+CNIC:42301-533
+
+
+              ali(Saving_Account)
+Username:ali
+Password:baba@321
+First Name:ALI
+Last Name:BABA
+Address:GULSHAN
+CNIC:42301-511
+
+
+
+
+
+              SAIF(Loan_Account)
+Username:SAIF
+Password:4321@
+First Name:SAIF
+Last Name:REHMAN
+Address:KAALA
+CNIC:42301-522
+
+
+              ali(Saving_Account)
+Username:ali
+Password:65422@
+First Name:LAAL
+Last Name:SINGH
+Address:HARIPUR
+CNIC:42301-544
+
+
+              TALHA(Checking_Account)
+Username:TALHA
+Password:@4321
+First Name:TALHA 
+Last Name:SHEIKH
+Address:IUYG
+CNIC:42301-533
+
+
+              abdul(Checking_Account)
+Username:abdul
+Password:g134
+First Name:Abdul
+Last Name:Baseer
+Address:DHA
+CNIC:42301-533
+
+
